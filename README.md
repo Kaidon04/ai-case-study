@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 
-* The company I am doing my ai case study on is Fitbod
+* The company I am doing my ai case study on is Tempo
 
 * 
 
-* The Founders of the company are Allen Chen and Jesse Venticinque
+* 
 
 * 
 
