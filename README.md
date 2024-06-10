@@ -16,9 +16,11 @@ They did this in exchange of Moawia staying in school.
 
 From this time he built his confidence and discipline through training.
 
-So he teamed up with Josh Augustin to provide a new workout s
+This caused him to have a passion for the power of training and how to implement cost effective systems for training. 
 
-* 
+So he teamed up with Josh Augustin to provide a new at-home workout system powered by AI.
+
+* With 12 investors they have raised 298.97 Million dollars for their company.
 
 ## Buisness Activities
 
