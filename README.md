@@ -24,7 +24,7 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 
 ## Buisness Activities
 
-* 
+* They are trying to solve for the lack of personalization and effeciency that comes with home workouts. 
 
 * 
 
@@ -34,7 +34,7 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 
 ## Landscape
 
-* 
+* This company is integrating AI into the fitness industry; specifically the home fitness industry. 
 
 * 
 
