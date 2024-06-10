@@ -38,7 +38,7 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 
 * 
 
-* 
+* Other major companies in this field are EGYM, FORME, and Tonal.
 
 ## Results 
 
