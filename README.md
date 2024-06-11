@@ -8,17 +8,17 @@
 
 * The two founders of the company are Moawia Eldeeb and Josh Augustin
 
-* > The founder Moawia Eldeeb at age 12 lived in a homeless shelter.
+* <p> The founder Moawia Eldeeb at age 12 lived in a homeless shelter.
 
->Personal trainers from YMCA trained him durint this time-frame.
+Personal trainers from YMCA trained him durint this time-frame.
 
->They did this in exchange of Moawia staying in school.
+They did this in exchange of Moawia staying in school.
 
->From this time he built his confidence and discipline through training.
+From this time he built his confidence and discipline through training.
 
->This caused him to have a passion for the power of training and how to implement cost effective systems for training.
+This caused him to have a passion for the power of training and how to implement cost effective systems for training.
 
->So he teamed up with Josh Augustin to provide a new at-home workout system powered by AI.
+So he teamed up with Josh Augustin to provide a new at-home workout system powered by AI. </p>
 
 * With 12 investors they have raised 298.97 Million dollars for their company.
 
