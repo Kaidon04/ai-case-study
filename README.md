@@ -37,9 +37,9 @@ Then with integrated AI it will use that information to prescribe changes to you
 
 ## Landscape
 
-* This company is integrating AI into the fitness industry; specifically the home fitness industry. 
+* This company is integrating AI into the fitness industry; specifically the connected fitness equipment industry. 
 
-* <p> One huge innovation and trend in home fitness is the use of wearable devices; like fitbits, apple watches, and etc.
+* <p> One huge innovation and trend in connected fitness is the use of wearable devices; like fitbits, apple watches, and etc.
 
 Another huge innovation was the implementation of AI for fitness coaching. </p>
 
@@ -49,9 +49,11 @@ Another huge innovation was the implementation of AI for fitness coaching. </p>
 
 * 
 
-* 
+* Core metrics companies use to measure success would be profit, members, and cost effeciency. 
 
-* 
+* Tempo is successful in these metrics with it being very cost effecient with it being $395 with a $39 monthly subscription, compared to tonal which is $4,000.
+
+
 
 ## Recommendations 
 
