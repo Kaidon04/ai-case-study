@@ -30,7 +30,9 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 
 * Tempo uses 3D sensors for feedback on your exercises in your own home to provide proffesional help in the comfort of your own home. 
 
-* 
+* <p> Tempo uses their 3D time of flight(Tof) sensor to observe your form, speed, weight, and distance.
+
+Then with integrated AI it will use that information to prescribe changes to your workout to improve and challenge you. </p>
 
 
 ## Landscape
@@ -40,8 +42,6 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 * <p> One huge innovation and trend in home fitness is the use of wearable devices; like fitbits, apple watches, and etc.
 
 Another huge innovation was the implementation of AI for fitness coaching. </p>
-
-
 
 * Other major companies in this field are EGYM, FORME, and Tonal.
 
@@ -62,3 +62,9 @@ Another huge innovation was the implementation of AI for fitness coaching. </p>
 * 
 
 * 
+
+ What has been the business impact of this company so far?
+
+What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
+How is your company performing relative to competitors in the same field?
