@@ -8,17 +8,17 @@
 
 * The two founders of the company are Moawia Eldeeb and Josh Augustin
 
-* The founder Moawia Eldeeb at age 12 lived in a homeless shelter.
+* > The founder Moawia Eldeeb at age 12 lived in a homeless shelter.
 
-Personal trainers from YMCA trained him durint this time-frame.
+>Personal trainers from YMCA trained him durint this time-frame.
 
-They did this in exchange of Moawia staying in school.
+>They did this in exchange of Moawia staying in school.
 
-From this time he built his confidence and discipline through training.
+>From this time he built his confidence and discipline through training.
 
-This caused him to have a passion for the power of training and how to implement cost effective systems for training. 
+>This caused him to have a passion for the power of training and how to implement cost effective systems for training.
 
-So he teamed up with Josh Augustin to provide a new at-home workout system powered by AI.
+>So he teamed up with Josh Augustin to provide a new at-home workout system powered by AI.
 
 * With 12 investors they have raised 298.97 Million dollars for their company.
 
@@ -26,17 +26,22 @@ So he teamed up with Josh Augustin to provide a new at-home workout system power
 
 * They are trying to solve for the lack of personalization and effeciency that comes with home workouts. 
 
-* 
+* Their intended market is people looking to improve strength and overall health from home.
+
+* Tempo uses 3D sensors for feedback on your exercises in your own home to provide proffesional help in the comfort of your own home. 
 
 * 
 
-* 
 
 ## Landscape
 
 * This company is integrating AI into the fitness industry; specifically the home fitness industry. 
 
-* 
+* <p> One huge innovation and trend in home fitness is the use of wearable devices; like fitbits, apple watches, and etc.
+
+Another huge innovation was the implementation of AI for fitness coaching. </p>
+
+
 
 * Other major companies in this field are EGYM, FORME, and Tonal.
 
