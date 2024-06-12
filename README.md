@@ -47,7 +47,7 @@ Another huge innovation was the implementation of AI for fitness coaching. </p>
 
 ## Results 
 
-* 
+* Tempo has made quite the impact on the industry and is shown by them easily securing $220 million in investments. 
 
 * Core metrics companies use to measure success would be profit, members, and cost effeciency. 
 
@@ -57,16 +57,20 @@ Another huge innovation was the implementation of AI for fitness coaching. </p>
 
 ## Recommendations 
 
-* 
+* I would reccomend a built in system for cables into the main body for the device like Tonal.
 
-* 
+* I think it would really benefit the company because cable exercises have a lot of benefits that free-weight exercises dont have.
 
-* 
+* It would simply just need to add a pully system into the main body and connect it to the system to analyze the weight, speed, and motion. 
 
-* 
 
- What has been the business impact of this company so far?
 
-What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+## Sources
 
-How is your company performing relative to competitors in the same field?
+* [tempo-fit](https://www.cbinsights.com/company/tempo-fit/alternatives-competitors )
+
+* [Cb-insights](https://www.cbinsights.com/company/tempo-fit/alternatives-competitors)
+
+* [analog](https://www.analog.com/en/signals/articles/tempo.html)
+
+* [crunchbase-news](https://news.crunchbase.com/health-wellness-biotech/home-fitness-studio-tempo-gets-stronger-with-220m-series-c/)
